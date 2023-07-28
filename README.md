@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MihirMakwana15
-- 👀 I’m interested in web designing.
-- 🌱 I’m currently learning web development from udemy.
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Machine learning from Coursera.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  mail me on mihirmakwan010@gmail.com
 
